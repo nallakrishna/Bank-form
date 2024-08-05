@@ -1,0 +1,41 @@
+ body{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+ }
+ h1{
+   text-align: center;
+   color: rgb(244, 242, 242);
+
+ }
+ h2{
+   text-align: center;
+   color: white;
+ }
+ h3{
+   color: white;
+ }
+ u{
+   color: rgb(174, 33, 33);
+ }
+ label{
+   color: rgb(0, 0, 0);
+ }
+ legend{
+   color: rgb(249, 7, 201);
+ }
+ .btn{
+  margin-top: 80px;
+  margin-left: 80px;
+ }
+ .sub{
+  text-align: center;
+  margin-top: 50px;
+ }
+.btn1{
+  height: 40px;
+  width: 100px;
+  color: white;
+  background-color: green;
+border: none;
+}
